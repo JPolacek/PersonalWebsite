@@ -562,7 +562,7 @@ ul#nav li.current a { color: #322d23; opacity: 1; }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: #afc3e1; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 

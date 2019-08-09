@@ -144,7 +144,7 @@ header .scrolldown a:hover { color: #afc3e1; }
 .opaque { background-color: #afc3e1; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; }
+#nav-wrap > a.mobile-btn { display: none; color: #afc3e1; }
 
 ul#nav {
    min-height: 48px;
