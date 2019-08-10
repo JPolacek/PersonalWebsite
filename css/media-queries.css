@@ -33,7 +33,7 @@
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'opensans-bold', sans-serif;
       width: 80%;
    }
    header .banner-text hr {
