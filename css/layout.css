@@ -140,6 +140,7 @@ header .scrolldown a:hover { color: #afc3e1; }
    left: 0;
    top: 0;
    opacity: .8;
+   vertical-align: middle;
 }
 .opaque { background-color: #afc3e1; }
 
@@ -158,6 +159,7 @@ ul#nav li {
    list-style: none;
    height: 48px;
    display: inline-block;
+   vertical-align: middle;
 }
 
 /* Links */
@@ -178,6 +180,7 @@ ul#nav li a {
 	-ms-transition: color .2s ease-in-out;
    transition: color .2s ease-in-out;
    opacity: 1;
+   vertical-align: middle;
 }
 
 ul#nav li a:active { background-color: transparent !important; opacity: 1; }
